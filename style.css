@@ -1,0 +1,40 @@
+body {
+	background-color: #34495E;
+}
+
+mainDiv {
+	width: 350px;
+	margin: 20px auto;
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+input[type="submit"] {
+	border: 1px solid black;
+	background-color: transparent;
+	width: 70px;
+	height: 50px;
+	font-size: 25px;
+	outline: none;
+}
+
+input[type="button"],
+input[type="reset"] {
+	width: 70px;
+	height: 70px;
+	border: 1px solid black;
+	background-color: transparent;
+	outline: none;
+	font-size: 25px;
+}
+
+input[type="text"] {
+	border: 1px solid black;
+	background-color: transparent;
+	outline: none;
+	opacity: 0.8;
+	height: 46px;
+	width: 215px;
+	font-size: 25px;
+	outline: none;
+}
